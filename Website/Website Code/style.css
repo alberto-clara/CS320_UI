@@ -1,7 +1,9 @@
 .topmenu.menu {
   box-shadow: none;
   border: none;
-  Background-color: whitesmoke
+  Background-color: whitesmoke;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .middlemenu.menu {
