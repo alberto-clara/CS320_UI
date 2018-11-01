@@ -14,3 +14,26 @@
 .top.image {
   padding-top: 10px;
 }
+
+.bottom.footer {
+    color: white;
+    box-shadow: none;
+    border: none;
+    Background-color: rgb(41, 41, 41);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+#under{
+    border-bottom: 2px solid white;
+}
+
+p.tight {line-height:0.5}
+
+/* hr {
+    display: block;
+    height: 1px;
+    border: 2 solid white;
+} */
