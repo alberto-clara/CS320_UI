@@ -1,0 +1,30 @@
+Home Icon
+<div>Icons made by <a href="https://www.flaticon.com/authors/dave-gandy" title="Home">Home</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+Shopping Cart Icon
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Supermarket Cart">Supermarket Cart</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+Person Icon
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="User">User</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+Search Icon
+<div>Icons made by <a href="https://www.flaticon.com/authors/simpleicon" title="Magnifier tool">Magnifier tool</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+Facebook Black Icon
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Facebook logo">Facebook logo</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+Facebook White Icon
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Facebook">Facebook</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+Twitter Black Icon
+<div>Icons made by <a href="https://www.flaticon.com/authors/elegant-themes" title="Twitter Logo Silhouette">Twitter Logo Silhouette</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+Twitter White Icon
+<div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Twitter">Twitter</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+Pinterest Black Icon
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Instagram Logo">Instagram Logo</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+Pinterest White Icon
+<div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Instagram">Instagram</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+

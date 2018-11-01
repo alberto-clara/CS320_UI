@@ -1,0 +1,14 @@
+.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  Background-color: whitesmoke
+}
+
+.middlemenu.menu {
+    box-shadow: none;
+    border: none;
+}
+
+.top.image {
+  padding-top: 10px;
+}
